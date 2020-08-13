@@ -1,0 +1,12 @@
+
+<!--////////////////////////////////////////////////////////////////////////-->
+<script>
+    $(document).ready(function(){ 
+    $('body').find('img[src$="https://cloud.githubusercontent.com/assets/23024110/20663010/9968df22-b55e-11e6-941d-edbc894c2b78.png"]').parent().closest('a').closest('div').remove();
+    }); 
+</script>
+<script>
+    $(document).ready(function(){ 
+    $('body').find('img[src$="https://cdn.rawgit.com/000webhost/logo/e9bd13f7/footer-powered-by-000webhost-white2.png"]').remove();
+   }); 
+</script>
