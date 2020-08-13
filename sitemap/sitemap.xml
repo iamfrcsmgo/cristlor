@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://cristlor.000webhostapp.com/</loc>
+  <lastmod>2018-07-17T17:00:42+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://cristlor.000webhostapp.com/cours/</loc>
+  <lastmod>2018-07-17T17:00:42+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cristlor.000webhostapp.com/contact/</loc>
+  <lastmod>2018-07-17T17:00:42+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cristlor.000webhostapp.com/search/</loc>
+  <lastmod>2018-07-17T17:00:42+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cristlor.000webhostapp.com/inscription/</loc>
+  <lastmod>2018-07-17T17:00:42+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cristlor.000webhostapp.com/connexion/</loc>
+  <lastmod>2018-07-17T17:00:42+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cristlor.000webhostapp.com/c-g-u/</loc>
+  <lastmod>2018-07-17T17:00:42+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cristlor.000webhostapp.com/cours/html/</loc>
+  <lastmod>2018-07-17T17:00:42+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cristlor.000webhostapp.com/cours/css/</loc>
+  <lastmod>2018-07-17T17:00:42+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cristlor.000webhostapp.com/mentions-legales/</loc>
+  <lastmod>2018-07-17T17:00:42+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cristlor.000webhostapp.com/support/</loc>
+  <lastmod>2018-07-17T17:00:42+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cristlor.000webhostapp.com/cours/html/learn/fonctionnement.php</loc>
+  <lastmod>2018-07-17T17:00:42+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cristlor.000webhostapp.com/cours/html/learn/description.php</loc>
+  <lastmod>2018-07-17T17:00:42+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cristlor.000webhostapp.com/cours/html/learn/editeur-de-texte.php</loc>
+  <lastmod>2018-07-17T17:00:42+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cristlor.000webhostapp.com/cours/html/learn/notre-premiere-page-avec-du-html.php</loc>
+  <lastmod>2018-07-17T17:00:42+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cristlor.000webhostapp.com/cours/css/learn/fonctionnement.php</loc>
+  <lastmod>2018-07-17T17:00:42+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cristlor.000webhostapp.com/cours/css/learn/editeur-de-texte.php</loc>
+  <lastmod>2018-07-17T17:00:42+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cristlor.000webhostapp.com/cours/css/learn/notre-premiere-page-avec-du-css.php</loc>
+  <lastmod>2018-07-17T17:00:42+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+</urlset>
