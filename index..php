@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Cristlor | Apprendre à coder avec nos cours 100% gratuits</title>
-	<link rel="stylesheet" type="text/css" href="https://iamfrcsmgo.github.io/cristlor/css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
   <?php include('includes/css-plus.php') ?>
   <!-- Search Engine -->
 <meta name="description" content="Venez apprendre à coder avec nos fabuleux cours 100% gratuits qui vous permettront de créer un magnifique site.">
